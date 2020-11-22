@@ -1,0 +1,322 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    font-style: normal;
+}
+body{
+    margin: 15px auto;
+    width: 90%;
+}
+nav{
+    display: grid;
+    grid-template-columns: 12fr 1fr 1fr 2fr 1fr;
+}
+header a{
+    color: black;
+}
+.contact, .shop{
+    margin: 0px 5px ;
+}
+.img1{
+    background-image: url(https://i.ibb.co/ZYW3VTp/brown-brim.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 268px;
+    height: 325px;
+    position: relative;
+}
+.img2{
+    background-image: url(https://i.ibb.co/ypkgK0X/blue-beanie.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 268px;
+    height: 325px;
+    position: relative;
+}
+.img3{
+    background-image: url(https://i.ibb.co/QdJwgmp/brown-cowboy.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 268px;
+    height: 325px;
+    position: relative;
+}
+.img4{
+    background-image: url(https://i.ibb.co/RjBLWxB/grey-brim.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 268px;
+    height: 325px;
+    position: relative;
+}
+
+/* SNEAKERS */
+.img5{
+    background-image: url(https://i.ibb.co/0s3pdnc/adidas-nmd.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 268px;
+    height: 325px;
+    position: relative;
+}
+.img6{
+    background-image: url(https://i.ibb.co/dJbG1cT/yeezy.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 268px;
+    height: 325px;
+    position: relative;
+}
+.img7{
+    background-image: url(https://i.ibb.co/bPmVXyP/black-converse.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 268px;
+    height: 325px;
+    position: relative;
+}
+.img8{
+    background-image: url(https://i.ibb.co/1RcFPk0/white-nike-high-tops.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 268px;
+    height: 325px;
+    position: relative;
+}
+
+/* JACKETS */
+.img9{
+    background-image: url(https://i.ibb.co/XzcwL5s/black-shearling.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 268px;
+    height: 325px;
+    position: relative;
+}
+.img10{
+    background-image: url(https://i.ibb.co/N71k1ML/grey-jean-jacket.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 268px;
+    height: 325px;
+    position: relative;
+}
+.img11{
+    background-image: url(https://i.ibb.co/mJS6vz0/blue-jean-jacket.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 268px;
+    height: 325px;
+    position: relative;
+}
+.img12{
+    background-image: url(https://i.ibb.co/M6hHc3F/brown-trench.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 268px;
+    height: 325px;
+    position: relative;
+}
+
+/* WOMEN */
+.img13{
+    background-image: url(https://i.ibb.co/7CQVJNm/blue-tank.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 268px;
+    height: 325px;
+    position: relative;
+}
+.img14{
+    background-image: url(https://i.ibb.co/4W2DGKm/floral-blouse.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 268px;
+    height: 325px;
+    position: relative;
+}
+.img15{
+    background-image: url(https://i.ibb.co/KV18Ysr/floral-skirt.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 268px;
+    height: 325px;
+    position: relative;
+}
+.img16{
+    background-image: url(https://i.ibb.co/N3BN1bh/red-polka-dot-dress.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 268px;
+    height: 325px;
+    position: relative;
+}
+
+/* MEN */
+.img17{
+    background-image: url(https://i.ibb.co/xJS0T3Y/camo-vest.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 268px;
+    height: 325px;
+    position: relative;
+}
+.img18{
+    background-image: url(https://i.ibb.co/qMQ75QZ/floral-shirt.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 268px;
+    height: 325px;
+    position: relative;
+}
+.img19{
+    background-image: url(https://i.ibb.co/55z32tw/long-sleeve.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 268px;
+    height: 325px;
+    position: relative;
+}
+.img20{
+    background-image: url(https://i.ibb.co/RvwnBL8/pink-shirt.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 268px;
+    height: 325px;
+    position: relative;
+}
+.tocart{
+    padding: 2px;
+    text-align: center;
+    border: 1px solid black;
+    width: 150px;
+    font-size: 15px;
+    color: #000;
+    background-color: #fff;
+    position: absolute;
+    top: 70%;
+    left: 25%;
+    cursor: pointer;
+    display: none;
+}
+.show:hover{
+    opacity: 65%;
+}
+.show:hover > .tocart{
+    display: block;
+
+}
+.imgunder{
+    display: grid;
+    grid-template-columns: 5fr 1fr;
+}
+.mayomilenu{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.show{
+    min-width: 268px;
+    min-height: 325px;
+    margin: 2px;
+}
+#main{
+    margin: 0 auto;
+    width: 60%;
+}
+.carttopsec{
+    display: inline-flex;
+}
+.carttopsec div{
+    padding: 0px 40px;
+}
+#totalprice{
+    font-size: 28px;
+    float: right;
+}
+.zainnylikeh6{
+    color: red;
+    font-size: 16px;
+    text-align: center;
+}
+.paybtn{
+    float: right;
+}
+
+
+
+
+
+
+/* Medium device only */
+@media (max-width: 768px) {
+    .show {
+        min-width: 150px;
+        min-height: 325px;
+        margin: 2px;
+    }
+    .mayomilenu{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+    .signin{
+        display: none;
+    }
+  }
+
+/* Very Large device only */
+@media (min-width: 1260px) {
+    .show {
+        min-width: 400px;
+        min-height: 325px;
+        margin: 2px;
+    }
+    .mayomilenu{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+  }
+
+
+
+/* Very Large device only */
+@media (min-width: 2000px) {
+    .show {
+        min-width: 470px;
+        min-height: 325px;
+        margin: 2px;
+    }
+    .mayomilenu{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+  }
+
+  .checkout-item{
+    display: inline-flex;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    text-align: center;
+  } 
